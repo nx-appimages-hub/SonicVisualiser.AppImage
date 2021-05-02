@@ -1,0 +1,1 @@
+# SonicVisualiser.AppImage
